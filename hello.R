@@ -1,4 +1,4 @@
-
+# Update from source repo
 usethis::use_git_config(user.name = "senanu", user.email = "senanu.pearson@gmail.com")
 
 
@@ -8,4 +8,8 @@ print("Hello from Binder!")
 
 # and some more new text
 
+
 # some new text from the fork. I'll try to see this
+# lots and lots of changes to this file
+# and yes, lots
+# and lots
